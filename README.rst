@@ -1,3 +1,6 @@
+This repository is Fork of CybroOdoo repository.
+Thanx for the base.
+
 Cash Flow Statement In Odoo
 ===========================
 Print Cash Flow Statement For Odoo V12 Community Edition
